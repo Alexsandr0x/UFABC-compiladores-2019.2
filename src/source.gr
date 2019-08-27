@@ -1,0 +1,7 @@
+nota1 = input;
+nota2 = input;
+nota3 = input;
+
+media = (nota1 + nota2 + nota3)/3;
+
+print media;
